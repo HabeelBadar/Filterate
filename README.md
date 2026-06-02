@@ -1,3 +1,5 @@
+Note: You can also just get the gui ver. Easier to use. 
+
 This is a tool used to optimize password dictionaries used in hashcat to brute force passwords.
 You can rule out the passwords you think arent related to the brute force.
 
